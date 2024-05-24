@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       HERO <br />
-      FEATURES <br />
+      FEATURES 
       FOOTER <br />
     </>
   );
